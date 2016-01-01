@@ -1,2 +1,2 @@
 # djangobaby
-First Django-powered web application.
+A simple Django based web application. 
